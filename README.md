@@ -1,31 +1,45 @@
-# 안녕하세요! 저는 김승한입니다 👋
+# 안녕하세요 시스템과 데이터를 연결하는 개발자 김승한입니다 
 
-웹 개발과 데이터 다루기, 알고리즘 구현에 관심이 많은 대학생 개발자입니다. 새로운 기술을 배우고 이를 활용해 재미있고 실용적인 프로그램을 만드는 것을 좋아합니다.
+> "컴퓨터과학의 탄탄한 기본기와 정보관리의 실용적인 시각을 바탕으로, 가치 있는 소프트웨어를 만들어갑니다."
 
-## 👨‍💻 About Me
-* 🎓 대학교에서 프로그래밍을 공부하고 있습니다.
-* 💻 **Python**과 **C**를 활용한 로직 구현 및 알고리즘 학습에 관심이 많습니다.
-* 🚀 최근에는 **HTML/CSS/JS**와 **Flask**를 활용해 인터랙티브한 웹 페이지와 트래커(Tracker) 같은 웹 애플리케이션을 제작하는 데 집중하고 있습니다.
-* 📝 개발 외에도 AI가 노동 시장에 미치는 영향 등 IT 기술의 사회적 흐름을 분석하고 글을 쓰는 것에도 흥미가 있습니다.
+## About Me
+* **한신대학교**에서 **컴퓨터과학 및 정보관리**를 전공하고 있습니다.
+* 컴퓨터과학의 논리적인 알고리즘 설계와, 데이터를 효율적으로 다루는 정보관리 아키텍처에 깊은 관심을 가지고 있습니다.
+* 단순히 코드를 작성하는 것을 넘어, **데이터가 정보가 되고, 정보가 사용자에게 가치를 전달하는 전체 흐름**을 구축하는 것을 목표로 합니다.
+* 현재 **[지금 공부하고 있는 언어/기술, 예: 대규모 데이터 처리 로직, 웹 백엔드 설계 등]**을 집중적으로 학습하고 있습니다.
 
 ## 🛠 Tech Stack
 
 ### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<!-- 사용할 기술 스택 뱃지를 남기고 나머지는 지워주세요 -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+### Database & Information Management
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 
 ### Frameworks & Tools
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
-## 📂 Recent Projects
-* **게임 매치업 트래커 웹 개발** 
-  * 웹 기반으로 데이터를 시각화하고 관리하는 프로젝트
-* **인터랙티브 웹 페이지 제작** 
-  * HTML, CSS, JavaScript를 활용한 사용자 맞춤형 이벤트 페이지 개발
-* **Python 자동화 및 텍스트 분석 스크립트**
+##  Featured Projects
 
-## 📊 GitHub Stats
-<!-- '본인의_깃허브_아이디' 부분을 실제 아이디로 수정하세요 -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=본인의_깃허브_아이디&show_icons=true&theme=transparent)](https://github.com/본인의_깃허브_아이디)
+### [프로젝트 이름 1: 예 - 사용자 데이터 분석 기반 추천 시스템]
+* **설명:** [프로젝트에 대한 한 줄 설명, 정보관리 전공을 살려 '데이터 활용' 측면 강조]
+* **역할:** [본인이 담당한 역할, 예: 백엔드 API 설계 및 데이터베이스 모델링]
+* **Tech:** `[사용한 기술1]` `[사용한 기술2]`
+* **Link:** [[Repository Link](https://github.com/본인아이디/레포지토리명)]
 
-## 📫 Contact Me
-* **Email:** [이메일 주소 입력, 예: email@gmail.com]
+### [프로젝트 이름 2: 예 - 교내 시설물 정보 관리 웹 서비스]
+* **설명:** [복잡한 정보를 체계적으로 관리하고 사용자에게 제공하는 서비스]
+* **역할:** [본인이 담당한 역할]
+* **Tech:** `[사용한 기술1]` `[사용한 기술2]`
+* **Link:** [[Repository Link](https://github.com/본인아이디/레포지토리명)]
+
+##  GitHub Stats
+<!-- '본인_아이디'를 실제 GitHub 아이디로 변경하세요 -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=본인_아이디&show_icons=true&theme=transparent)](https://github.com/본인_아이디)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인_아이디&layout=compact&theme=transparent)](https://github.com/본인_아이디)
+
+##  Contact & Links
+*  **Email:** [본인 이메일 주소]
+* velog **Blog:** [[블로그 링크]](https://velog.io/@본인아이디)
+*  **LinkedIn:** [[링크드인 주소]](링크)
