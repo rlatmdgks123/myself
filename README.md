@@ -27,5 +27,4 @@
 <!-- '본인의_깃허브_아이디' 부분을 실제 아이디로 수정하세요 -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=본인의_깃허브_아이디&show_icons=true&theme=transparent)](https://github.com/본인의_깃허브_아이디)
 
-##  Contact Me
-* **Email:** [이메일 주소 입력, 예: email@gmail.com]
+
