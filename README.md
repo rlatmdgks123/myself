@@ -23,8 +23,6 @@
   * HTML, CSS, JavaScript를 활용한 사용자 맞춤형 이벤트 페이지 개발
 * **Python 자동화 및 텍스트 분석 스크립트**
 
-##  GitHub Stats
-<!-- '본인의_깃허브_아이디' 부분을 실제 아이디로 수정하세요 -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=본인의_깃허브_아이디&show_icons=true&theme=transparent)](https://github.com/본인의_깃허브_아이디)
+
 
 
